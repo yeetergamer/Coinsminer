@@ -12,5 +12,5 @@ This app is a simple Bitcoin mining tool that allows users to mine Bitcoin using
 
 1. Clone the repository.
 2. Install the required dependencies (`requests` library).
-3. If you have any questions make sure to contact phonecable on discord.
+3. If you have any questions make sure to contact policewoman on discord.
 4. Have fun mining!
